@@ -1,5 +1,5 @@
-homepage: "https://www.example.com"
-documentation: "https://www.example.com/documentation"
+homepage: "https://github.com/simonmadsen/onetrustcmpenhanced"
+documentation: "https://github.com/simonmadsen/onetrustcmpenhanced"
 versions:
   - sha: 48f2b7f245cc018a3798974357af763984ee0e91
     changeNotes: Initial release.
